@@ -26,20 +26,20 @@ All books are put in their respective category and are sorted alphabetically.
 
 
 ## Biographies and Memoirs
-* "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" by Ashlee Vance [📘](https://www.goodreads.com/book/show/25541028-elon-musk)[📖]()[🎧]()
-* "Meat Eater: Adventures from the Life of an American Hunter" by Steven Rinella [📘](https://www.goodreads.com/book/show/13330600-meat-eater)[📖]()[🎧]()
-* "The Everything Store: Jeff Bezos and the Age of Amazon" by Brad Stone [📘](https://www.goodreads.com/book/show/17660462-the-everything-store)[📖]()[🎧]()
+* "Elon Musk" by Ashlee Vance [📘](https://www.goodreads.com/book/show/25541028-elon-musk)[📖]()[🎧]()
+* "Meat Eater" by Steven Rinella [📘](https://www.goodreads.com/book/show/13330600-meat-eater)[📖]()[🎧]()
+* "The Everything Store" by Brad Stone [📘](https://www.goodreads.com/book/show/17660462-the-everything-store)[📖]()[🎧]()
 
 
 ## Business
 * "A Random Walk Down Wall Street" by Burton G. Malkiel [📘](https://www.goodreads.com/book/show/900892.A_Random_Walk_Down_Wall_Street)[📖]()[🎧]()
-* "How to Win at the Sport of Business: If I Can Do It, You Can Do It" by Mark Cuban [📘](https://www.goodreads.com/book/show/25541028-elon-musk)[📖]()[🎧]()
-* "Me, Inc.: Build an Army of One, Unleash Your Inner Rock God, Win in Life and Business" by Gene Simmons [📘](https://www.goodreads.com/book/show/20721967-me-inc)[📖]()[🎧]()
-* "Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal" by Oren Klaff [📘](https://www.goodreads.com/book/show/10321016-pitch-anything)[📖]()[🎧]()
+* "How to Win at the Sport of Business" by Mark Cuban [📘](https://www.goodreads.com/book/show/25541028-elon-musk)[📖]()[🎧]()
+* "Me, Inc." by Gene Simmons [📘](https://www.goodreads.com/book/show/20721967-me-inc)[📖]()[🎧]()
+* "Pitch Anything" by Oren Klaff [📘](https://www.goodreads.com/book/show/10321016-pitch-anything)[📖]()[🎧]()
 * "Rich Dad, Poor Dad" by Robert T. Kiyosaki [📘](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)[📖]()[🎧]()
 * "The 4-Hour Workweek" by Timothy Ferriss [📘](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek)[📖]()[🎧]()
-* "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It" by Michael E. Gerber [📘](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)[📖]()[🎧]()
-* "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries [📘](https://www.goodreads.com/book/show/10127019-the-lean-startup)[📖]()[🎧]()
+* "The E-Myth Revisited" by Michael E. Gerber [📘](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)[📖]()[🎧]()
+* "The Lean Startup" by Eric Ries [📘](https://www.goodreads.com/book/show/10127019-the-lean-startup)[📖]()[🎧]()
 * "Think and Grow Rich" by Napoleon Hill [📘](https://www.goodreads.com/book/show/30186948-think-and-grow-rich)[📖]()[🎧]()
 
 
@@ -51,11 +51,11 @@ All books are put in their respective category and are sorted alphabetically.
 
 ## History
 * "A Peoples History of The United States" by Howard Zinn [📘](https://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States)[📖](https://www.amazon.com/gp/product/0060838655)[🎧](https://www.audible.com/pd/A-Peoples-History-of-the-United-States-Audiobook/B002V5CKGE)
-* "Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong" by James W. Loewen [📘](https://www.goodreads.com/book/show/296662.Lies_My_Teacher_Told_Me)[📖]()[🎧]()
+* "Lies My Teacher Told Me" by James W. Loewen [📘](https://www.goodreads.com/book/show/296662.Lies_My_Teacher_Told_Me)[📖]()[🎧]()
 
 
 ## Science and Technology
-* "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win" by Gene Kim, Kevin Behr, & George Spafford [📘](https://www.goodreads.com/book/show/17255186-the-phoenix-project)[📖]()[🎧]()
+* "The Phoenix Project" by Gene Kim, Kevin Behr, & George Spafford [📘](https://www.goodreads.com/book/show/17255186-the-phoenix-project)[📖]()[🎧]()
 
 
 ## Sci-Fi and Fantasy
@@ -63,13 +63,13 @@ All books are put in their respective category and are sorted alphabetically.
 
 
 ## Self Development
-* "Daily Rituals: How Artists Work" by Mason Currey [📘](https://www.goodreads.com/book/show/15799151-daily-rituals)[📖]()[🎧]()
-* "For Men Only: A Straightforward Guide to the Inner Lives of Women" by Shaunti and Jeff Feldhahn [📘](https://www.goodreads.com/book/show/49149.For_Men_Only)[📖]()[🎧]()
+* "Daily Rituals" by Mason Currey [📘](https://www.goodreads.com/book/show/15799151-daily-rituals)[📖]()[🎧]()
+* "For Men Only" by Shaunti and Jeff Feldhahn [📘](https://www.goodreads.com/book/show/49149.For_Men_Only)[📖]()[🎧]()
 * "Mastery" by Robert Greene [📘](https://www.goodreads.com/book/show/13589182-mastery)[📖]()[🎧]()
 
 
 ## Travel and Adventure
-* "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel" by Rolf Potts [📘](https://www.goodreads.com/book/show/100247.Vagabonding)[📖]()[🎧]()
+* "Vagabonding" by Rolf Potts [📘](https://www.goodreads.com/book/show/100247.Vagabonding)[📖]()[🎧]()
 
 
 ## Religion and Spirituality
@@ -88,6 +88,6 @@ All books are put in their respective category and are sorted alphabetically.
 
 
 ## Sports Health and Fitness
-* "Mind Gym: An Athlete's Guide to Inner Excellence" by Gary Mack [📘](https://www.goodreads.com/book/show/451720.Mind_Gym)[📖]()[🎧]()
-* "The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman" by Timothy Ferriss [📘](https://www.goodreads.com/book/show/7148931-the-4-hour-body)[📖]()[🎧]()
+* "Mind Gym" by Gary Mack [📘](https://www.goodreads.com/book/show/451720.Mind_Gym)[📖]()[🎧]()
+* "The 4-Hour Body" by Timothy Ferriss [📘](https://www.goodreads.com/book/show/7148931-the-4-hour-body)[📖]()[🎧]()
 
