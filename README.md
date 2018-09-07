@@ -1,6 +1,7 @@
 # Books I've Read (...or listened to)
 
 A list to help me remember which books I've finished.  
+The [backlog](backlog.md) contains books people have recommended that I plan to read.  
 All books are put in their respective category and are sorted alphabetically.
 
 |  Emoji |  Meaning |
