@@ -1,6 +1,9 @@
 # Book Backlog
 Books I've heard about or have been recommended to me:
 - "Antifragile" by Nassim Nicholas Taleb
+- "Greatest of All Time" by Peter T Struck         
+- "As a man Thinketh" by James Allen 
+- "Seeking Allah, finding Jesus" by nabeel qureshi
 - "Extreme Ownership" by Jocko Willink
 - "How Google Works" by Eric Schmidt and Jonathan Rosenberg
 - "How to Talk to Anyone" by Leil Lowndes
@@ -11,7 +14,19 @@ Books I've heard about or have been recommended to me:
 - "The Art of Learning" by Josh Waitzkin
 - "The Last Safe Investment" by Bryan Franklin and Michael Ellsberg
 - "The Power of Habit" by Charles Duhigg
-- "The Tao of Seneca" by Timothy Ferriss
 - "The Virgin Way" by Richard Branson
 - "We Learn Nothing" by Tim Kreider
 - "What I Learned Losing a Million Dollars" by Jim Paul and Brendan Moynihan
+- "Leadership n Turbulent Times" by Doris Kearns Goodwin
+- "How To Lead When You're Not In Charge" by Clay Scroggins
+- "The Last Safe Inestment" by Bryan Franklin and Michael Ellsberg
+- "Dark Psycology Secrets & The Art of Reading People" by Richard Martinez
+- "How to Talk to Anyone" by Leil Lowndes
+- "The Oxygen Advantage" by Patrick McKeown
+- "Sapiens, A Breif History of Humankind" by "Yuval Noah Harari
+- "Behave" by Robert M. Sapolsky
+- "The History of Western Philosophy" by Bertrand Russell
+- "The Psychology of Money" by Morgan Housel
+- "The Elegant Universe" by Brian Greene
+- "Until The End of Time" by Brian Greene
+- "12 Rules For Life" by Jordan B. Peterson
