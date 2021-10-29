@@ -8,7 +8,7 @@ All books are sorted into their respective genre and are sorted alphabetically.
 
 Enjoy and happy reading!
 
-|  Emoji |  Meaning |
+|  Symbol |  Meaning |
 |---|---|
 | 📚 |goodreads.com link|
 | 📖 |amazon.com link|
