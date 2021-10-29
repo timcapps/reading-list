@@ -13,7 +13,7 @@ Enjoy and happy reading!
 | 📚 |goodreads.com link|
 | 📖 |amazon.com link|
 | 📝 |link to my notes (If I took any)
-
+| ({date}) | The year I first completed the book
 
 ### Contents
 - [Biographies and Memoirs](#biographies-and-memoirs)
@@ -142,6 +142,7 @@ Enjoy and happy reading!
 * "The Tao of Seneca" by Timothy Ferriss 
 [📚](https://www.goodreads.com/book/show/28676323-the-tao-of-seneca)
 [📖](https://www.amazon.com/The-Tao-of-Seneca-audiobook/dp/B01AIXEJ0U/ref=sr_1_1)
+(2021)
 
 ## Psychology
 * "The 48 Laws of Power" by Robert Greene
