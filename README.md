@@ -103,6 +103,22 @@ Enjoy and happy reading!
 * "The Graveyard Book" by Neil Gaiman
 [📚](https://www.goodreads.com/book/show/2213661.The_Graveyard_Book)
 [📖](https://www.amazon.com/gp/product/0060530928)
+* "Leviathan Wakes" by James S. A. Corey
+[📚](https://www.goodreads.com/book/show/8855321-leviathan-wakes)
+[📖](https://www.amazon.com/gp/product/1841499889)
+(2019)
+* "Caliban's War" by James S. A. Corey
+[📚](https://www.goodreads.com/book/show/12591698-caliban-s-war)
+[📖](https://www.amazon.com/gp/product/1841499900)
+(2020)
+* "Abaddon's Gate" by James S. A. Corey
+[📚](https://www.goodreads.com/book/show/16131032-abaddon-s-gate)
+[📖](https://www.amazon.com/gp/product/0316129070)
+(2020)
+* "Cibola Burn" by James S. A. Corey
+[📚](https://www.goodreads.com/book/show/18656030-cibola-burn)
+[📖](https://www.amazon.com/Cibola-Burn-Expanse-Book-4-ebook/dp/B00FPQA4F0/ref=sr_1_1)
+(2021)
 
 
 ## Self Development
